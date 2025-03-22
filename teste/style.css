@@ -1,0 +1,18 @@
+/*primeiras configurações*/
+body {
+background-color: teal;
+border: black solid 3px;
+margin: 10 auto;
+}
+
+p {
+text-align: center;
+}
+
+form {
+
+}
+
+h1 {
+font-size: 10x;
+}
