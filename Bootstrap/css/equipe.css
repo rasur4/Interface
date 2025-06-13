@@ -1,0 +1,55 @@
+/* estilo.css */
+
+/* Estilo do corpo da página */
+body {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Estilo do cabeçalho */
+header {
+  background-color: #800000; /* Bordô */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Estilo do título da seção */
+h2.text-bordo {
+  color: #800000; /* Bordô */
+}
+
+/* Estilo dos cards da equipe */
+.card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  border-radius: 50%;
+  border: 5px solid #800000; /* Bordô */
+}
+
+.card-body {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.card-title {
+  color: #800000; /* Bordô */
+  font-weight: bold;
+}
+
+.card-text {
+  color: #333;
+  font-size: 1rem;
+}
+
+/* Estilo do rodapé */
+footer {
+  background-color: #800000; /* Bordô */
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
